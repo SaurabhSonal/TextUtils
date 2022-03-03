@@ -55,7 +55,7 @@ const Navbar = (props) => {
               />
               <label
                 className="form-check-label"
-                HTMLfor="flexSwitchCheckDefault"
+                htmlFor="flexSwitchCheckDefault"
               >
                 Enable Dark Mode
               </label>

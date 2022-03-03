@@ -55,7 +55,7 @@ const Textform = (props) => {
       </div> 
 
       <div className="container my-3" style={{ color:props.mode==='light'?'#0E2140':'white' }}>
-      <h1>{props.heading}/</h1>
+      
         <h2>your text summary..</h2>
         <p>{text.split(" ").length} words and {text.length} charasters.</p>
         {/* counting the number of words and the characters.... */}
